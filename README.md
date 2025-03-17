@@ -1,4 +1,4 @@
-# geektime-vue
+<<<<<<< HEAD
 
 ## 安装依赖
 
@@ -16,13 +16,17 @@ npm run serve
 
 ```
 # 升级 Vue CLI 全局和本地版本
-npm install -g @vue/cli
-npm update @vue/cli-service
+- npm install -g @vue/cli
+- npm update @vue/cli-service
 
 # 升级 Webpack 和相关插件
-npm install webpack@5 webpack-cli@4 webpack-dev-server@4 --save-dev
+- npm install webpack@5 webpack-cli@4 webpack-dev-server@4 --save-dev
 
 # 清理缓存并重新安装依赖
-rm -rf node_modules package-lock.json
-npm install
+- rm -rf node_modules package-lock.json
+- npm install
 ```
+
+=======
+
+> > > > > > > 28b4b5efffd8afa8b03234d81a0797556ec2bb9a
